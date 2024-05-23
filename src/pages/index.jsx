@@ -3,7 +3,6 @@ import '../global.css';
 import './index.css';
 import { apiBaseURL } from '../lib/api';
 
-
 //const apiBaseURL = 'http://localhost:4000'; // nová proměnná, kterou vložím všude, kde mám začátek adresy
 const resp = await fetch(apiBaseURL + '/api/recipe');
 const data = await resp.json(); //zkontroluju si v console.log(data) že to funguje
@@ -19,7 +18,7 @@ const handleAppendFormSubmit = async (event) => {
   const directions = document.getElementById('directions').value;
 
   const recipe = {
-    title: title;
+    title,
     image: imageUrl,
     portions,
     ingredients: ingredients
