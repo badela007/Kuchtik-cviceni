@@ -1,0 +1,83 @@
+[
+  {
+    "id": "0",
+    "title": "Smažená rýže se zeleninou",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=2900,h=1300/https://cdn.rohlik.cz/images/meals/large/1837-1631857528011.jpg",
+    "portions": 4,
+    "ingredients": [
+      "800 g uvařené jasmínové rýže",
+      "3 vejce",
+      "2 lžíce rybí omáčky",
+      "2 lžíce sójové omáčky",
+      "2 šalotky",
+      "1 stroužek česneku",
+      "2 mrkve",
+      "1 ks pak choi",
+      "Jarní cibulka",
+      "Hrstka koriandru",
+      "Bílý sezam na zdobení",
+      "2 lžíce sezamového oleje",
+      "Sůl",
+      "Pepř"
+    ],
+    "procedure": [
+      "1. Rýži uvařte podle návodu. Na smaženou rýži se hodí rýže z předešlého dne. Šalotku a česnek nakrájejte nadrobno. Mrkve a pak choi očistěte a nakrájejte na úzké dlouhé (julienne) nudličky. Jarní cibulku nasekejte na menší kousky.",
+      "2. Rozpalte pánev, přidejte olej, šalotku a česnek a restujte dosklovata. Přidejte vejce, chvíli opékejte a rozmíchejte, přidejte uvařenou rýži, rybí omáčku, sójovou omáčku a opékejte 5 minut, dokud rýže nezhnědne.",
+      "3. Mrkev, pak choi a jarní cibulku přidejte na konec a restujte další 2 minuty. Dochuťte solí a pepřem. Smaženou rýži dozdobte sezamem a koriandrem."
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Avokádová omáčka s těstovinami",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=2900,h=1300/https://cdn.rohlik.cz/images/meals/large/13616-1636467855486.jpg",
+    "portions": 4,
+    "ingredients": [
+      "240 g celozrnných špaget",
+      "3 zralá avokáda",
+      "1 stroužek česneku",
+      "2 lžíce olivového oleje",
+      "1 lžíce citronové šťávy",
+      "Čerstvé bazalkové lístky",
+      "Hrst vlašských ořechů",
+      "Sůl",
+      "Pepř"
+    ],
+    "procedure": [
+      "1. Špagety uvaříme v osolené vodě podle návodu na obalu.",
+      "2. Mezitím, než se špagety uvaří, připravíme omáčku. Avokáda zbavíme šlupky s peckou a umixujeme společně s olivovým olejem, česnekem a citronovou šťávou",
+      "3. Omáčku smícháme se zcezenými špagetami. Dochutíme solí a pepřem a podáváme s bazalkovými listy a vlašskými ořechy."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Polentové hranolky s kozím sýrem a jarní cibulkou",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=1200,h=537/https://cdn.rohlik.cz/images/meals/large/24522-1715772581473.jpg",
+    "portions": 4,
+    "ingredients": [
+      "100 g instantní polenty",
+      "0,5 l plnotučného mléka Ohaře",
+      "110 g kozího sýru BEZ KOMPROMISU",
+      "1 svazek jarní cibulky",
+      "Extra panenský olivový olej",
+      "Sůl",
+      "Pepř"
+    ],
+    "directions": [
+      "Do pánve nalijte půl litr plnotučného mléka, osolte a za stálého míchání metličkou přiveďte k varu. Jakmile ho přivedete k varu začněte zlehka přisypávat polentu, na půl litru mléka použijte 100 gramů polenty. Je lepší řídit se však tím, jak rychle začne kukuřičná kaše houstnout. Jakmile získá kašovitou konzistenci, vyměňte metličku za gumovou stěrku, abyste ji hezky seškrábli i ze stěn a za stálého míchání ji dalších 4 až 5 minut provařte.",
+      "2Formu, v tomto případě nízký pekáček, potřete nepatrně olivový olejem, aby se polenta k formě nepřilepila. Můžete použít třeba i formu na biskupský chlebíček. Hustou kaši vysypte do formy a rovnoměrně uhlaďte. Kaši nechte 2 až 3 hodinky vychladit. Ztuhlou polentu pak vyklopte na prkénko a nakrájejte na silnější hranolky, jako ve videu.",
+      "3Polentu můžete grilovat přímo i na samotném roštu, ale protože máme v receptu kozí sýr a jarní cibulku, a ty by vám roštem propadli. Použijte litinovou pánev. Polentu před pečením potřete olivovým olejem ze všech stran, aby se opět na pánvi nepřilepila. Můžete zkusit i fígl s pečícím papírem, který potřete olejem a vložíte dovnitř pánve. A pro lepší manipulaci můžeme do hrubších hranolek zapíchat grilovací špejle."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "blalba",
+    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=1200,h=537/https://cdn.rohlik.cz/images/meals/large/24522-1715772581473.jpg",
+    "portions": 4,
+    "ingredients": [
+      "sfsdf"
+    ],
+    "directions": [
+      "sfsf"
+    ]
+  }
+]
