@@ -6,7 +6,7 @@ import './detail.css';
 const recipeId = new URLSearchParams(window.location.search).get('recipeId');
 const resp = await fetch(`${apiBaseURL}/api/recipe/${recipeId}`);
 const recipeData = await resp.json();
-const recipe = recipeData.recipeData;
+const recipe = recipeData.data;
 console.log(recipe);
 
 //console.log(`${apiBaseURL}/api/recipe/${recipeId}`);

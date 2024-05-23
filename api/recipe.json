@@ -70,14 +70,16 @@
   },
   {
     "id": 4,
-    "title": "blalba",
-    "image": "https://www.rohlik.cz/cdn-cgi/image/f=auto,fit=cover,g=0.5x0.5,w=1200,h=537/https://cdn.rohlik.cz/images/meals/large/24522-1715772581473.jpg",
+    "title": "Chleba s máslem",
+    "image": "https://i.ytimg.com/vi/Wzcp7vZBv9Y/maxresdefault.jpg",
     "portions": 4,
     "ingredients": [
-      "sfsdf"
+      "Chleba ",
+      "máslo",
+      "sůl"
     ],
     "directions": [
-      "sfsf"
+      "Namažte chleba s máslem"
     ]
   }
 ]
